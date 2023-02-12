@@ -2,19 +2,19 @@
     "name": "VickMachineBot",    
     "env": {
         "BOT_TOKEN": {
-            "description": "telegram bot token here",
+            "description": "5987386625:AAFI09k-kYlyggptag4vlHF-TJK88qeRDC0",
             "required": true
         },        
         "MONGO_URL": {
-            "description": "mongo db url here",
+            "description": "mongodb+srv://hnyx:wywyw2@cluster0.9dxlslv.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "API_ID": {
-            "description": "telegram api id here",
+            "description": "13279715",
             "required": true
         },
         "API_HASH": {
-            "description": "telegram api hash here",
+            "description": "56e198053932ecf216af72a2ddffcd78",
             "required": true
         }
     },
